@@ -1,0 +1,4 @@
+(executable
+ (public_name foe)
+ (name main)
+ (libraries foe unix terminal_size))
